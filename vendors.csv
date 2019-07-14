@@ -1,0 +1,11 @@
+vendor_id,vendor_rating,no_of_rating,,vendor_type,vendor_name
+1,4.5,10,,photographer,momentografy studio
+2,5,25,,photographer,alisha studio
+3,3.5,4,,photographer,tarik ak
+4,4,3,,event planner,eventors
+5,4.5,1,,event planner,random event
+6,4,98,,event planner,max events
+7,2,6,,birthday planner,bday events
+8,3,89,,birthday planner,random birthday
+9,4,5,,catering,caterer
+10,2,1,,catering,random dish
